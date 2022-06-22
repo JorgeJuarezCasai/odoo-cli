@@ -30,3 +30,10 @@ odoo_protocol = jsonrpc
 odoo-pms reservations get-list --states Reservado
 ```
 ![img.png](img.png)
+
+# Help
+## Any command has a help argument "--help"
+```bash
+odoo-pms --help
+```
+![img_1.png](img_1.png)
