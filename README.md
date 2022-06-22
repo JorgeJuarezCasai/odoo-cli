@@ -18,6 +18,7 @@ nano ~/.odoo-config
 
 ```ini
 ; Example ~/.odoo-config
+[options]
 odoo_host = 127.0.0.0
 odoo_user = admin
 odoo_password = admin
