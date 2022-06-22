@@ -25,3 +25,8 @@ odoo_port = 8069
 odoo_protocol = jsonrpc
 ```
 
+# Usage examples
+```bash
+odoo-pms reservations get-list --states Reservado
+```
+![img.png](img.png)
